@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-04-08T22:38:19+08:00</updated><id>http://localhost:4000/</id><title type="html">iwason blog</title><subtitle>エンジニアリング、英語、自分の考え方、読んだ本など。
+</subtitle><entry><title type="html">プログラミング　スキルの定義を考える</title><link href="http://localhost:4000/programming/skill/2017/04/08/skill-definition.html" rel="alternate" type="text/html" title="プログラミング　スキルの定義を考える" /><published>2017-04-08T21:00:07+08:00</published><updated>2017-04-08T21:00:07+08:00</updated><id>http://localhost:4000/programming/skill/2017/04/08/skill-definition</id><content type="html" xml:base="http://localhost:4000/programming/skill/2017/04/08/skill-definition.html">&lt;p&gt;エンジニアとして世の中の課題を解決していくには&lt;br /&gt;
+技術力を常に磨いていく必要がある。&lt;br /&gt;
+普通のプログラマが、会社員として触れる知識は&lt;br /&gt;
+そのままだと浅く狭いので、  知識のレベルを広げる必要がある。&lt;/p&gt;
+
+&lt;p&gt;NLP(Neuro-Linguistic Programming)によると
+学習の段階として&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;無意識的無能&lt;/li&gt;
+  &lt;li&gt;意識的無能&lt;/li&gt;
+  &lt;li&gt;意識的有能&lt;/li&gt;
+  &lt;li&gt;無意識的有能&lt;/li&gt;
+  &lt;li&gt;意識的有能に意識的有能&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;という段階がある。&lt;/p&gt;
+
+&lt;p&gt;それぞれ簡略化してスキルとして考えると、&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;レベル&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;学習の状態&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;スキルの状態&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;知らない、できない&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;聞いたこともない&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;知ってるけど、できない&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;理論はしってる&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;頑張ればできる&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;やったことがある&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;特に考えずにできる&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;身についている状態&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;教えられる&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;噛み砕いて説明できる&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;このような形だろうか。&lt;/p&gt;
+
+&lt;p&gt;勉強会などで、ただ参加しているだけでは満足感があっても&lt;br /&gt;
+レベル2の手前くらいが限度ではなかろうか。
+（知らないことが分かった状態）&lt;/p&gt;
+
+&lt;p&gt;基本的に、世の中で課題解決をする上で、人の手を借りずにやる場合は、&lt;br /&gt;
+最低限幾つかの主要なスキルでレベル4のものを見に付けたほうが
+良いのではないだろうか。&lt;/p&gt;
+
+&lt;p&gt;フルスタックエンジニアに成るべきとか、１個に成熟しろとかそういう話ではなく、&lt;br /&gt;
+自分が何を知らなくて、何を知っているのかをまとめて&lt;br /&gt;
+自分の目的に合わせてスキルマップを作っていけるようになりたい。&lt;/p&gt;
+
+&lt;p&gt;参考になりそうなサイト、記事&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;エンジニアスキルのロードマップ&lt;br /&gt;
+&lt;a href=&quot;https://github.com/kamranahmedse/developer-roadmap&quot;&gt;Roadmap to becoming a web developer in 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;技術スタックの種類と選び方&lt;br /&gt;
+&lt;a href=&quot;https://www.upwork.com/hiring/development/choosing-the-right-software-stack-for-your-website/&quot;&gt;choosing the right software stack for your website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">エンジニアとして世の中の課題を解決していくには 技術力を常に磨いていく必要がある。 普通のプログラマが、会社員として触れる知識は そのままだと浅く狭いので、 知識のレベルを広げる必要がある。</summary></entry></feed>

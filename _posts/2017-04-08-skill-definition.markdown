@@ -50,3 +50,6 @@ NLP(Neuro-Linguistic Programming)によると
 [Roadmap to becoming a web developer in 2017][roadmap]
 * 技術スタックの種類と選び方  
 [choosing the right software stack for your website][stack]
+
+[stack]:https://www.upwork.com/hiring/development/choosing-the-right-software-stack-for-your-website/
+[roadmap]: https://github.com/kamranahmedse/developer-roadmap
